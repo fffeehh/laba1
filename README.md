@@ -7,17 +7,17 @@
 ### 1. Palindrome.java
 Программа для проверки слов на палиндром (читается ли слово одинаково в обоих направлениях).
 Принимает список строк через аргументы командной строки.
-*   **Запуск:**
-    ```bash
-    javac Palindrome.java
-    java Palindrome madam racecar apple
-    ```
+**Запуск:**
+```bash
+javac Palindrome.java
+java Palindrome madam racecar apple
+ ```
 
 ### 2. Primes.java
 Программа для поиска простых чисел.
 Находит и выводит в консоль все простые числа в диапазоне от 2 до 100.
-*   **Запуск:**
-    ```bash
-    javac Primes.java
-    java Primes
-    ```
+**Запуск:**
+```bash
+javac Primes.java
+java Primes
+```
